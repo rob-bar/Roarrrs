@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>context.strokeStyle = "#${1:color}";
+context.beginPath();
+context.MoveTo(${2:x_1},${3:y_1});
+context.lineTo(${4:x_2},${5:y_2});
+context.stroke();
+context.closePath();</string>
+	<key>name</key>
+	<string>js_canvas_drawline</string>
+	<key>tabTrigger</key>
+	<string>jsc</string>
+	<key>uuid</key>
+	<string>439D0B46-4DC2-4834-9AA6-9EE663F59819</string>
+</dict>
+</plist>

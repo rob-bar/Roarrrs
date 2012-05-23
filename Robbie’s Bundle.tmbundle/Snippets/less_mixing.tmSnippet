@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.${1:mixname} (${1:parrams}) {
+  $3;
+}
+</string>
+	<key>name</key>
+	<string>less_mixing</string>
+	<key>tabTrigger</key>
+	<string>less</string>
+	<key>uuid</key>
+	<string>F16AF09E-9E66-4A2D-922B-D828C08B831F</string>
+</dict>
+</plist>

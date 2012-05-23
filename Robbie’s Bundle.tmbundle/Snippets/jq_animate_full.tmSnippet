@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${8:/*
+swing, easeInQuad, easeOutQuad, easeInOutQuad, easeInCubic, easeOutCubic, easeInOutCubic, easeInQuart,
+easeOutQuart, easeInOutQuart, easeInQuint, easeOutQuint, easeInOutQuint, easeInSine, easeOutSine, easeInOutSine, 
+easeInExpo, easeOutExpo, easeInOutExpo, easeInCirc, easeOutCirc, easeInOutCirc, easeInElastic, easeOutElastic,
+easeInOutElastic, easeInBack, easeOutBack, easeInOutBack,easeInBounce, easeOutBounce, easeInOutBounce
+*/}
+setTimeout(function() {
+    $("$1").animate({
+        ${2:prop}: ${3:val}
+    },
+	{
+        duration: ${4:700},
+        easing: '${5:easeOutExpo}',
+		complete: ${6:callback}
+    })
+},
+${7:delay});</string>
+	<key>name</key>
+	<string>jq_animate_full</string>
+	<key>tabTrigger</key>
+	<string>jqeff</string>
+	<key>uuid</key>
+	<string>44477AE3-8AA5-4620-A526-D0DD2917BD6D</string>
+</dict>
+</plist>

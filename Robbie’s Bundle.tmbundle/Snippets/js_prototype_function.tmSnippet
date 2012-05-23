@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:Classname}.prototype.${2:functionName} = function(${3:parrams}){
+	$4;
+}</string>
+	<key>name</key>
+	<string>js_prototype_function</string>
+	<key>tabTrigger</key>
+	<string>js</string>
+	<key>uuid</key>
+	<string>09F7C698-493A-476B-B02C-B927B019F352</string>
+</dict>
+</plist>

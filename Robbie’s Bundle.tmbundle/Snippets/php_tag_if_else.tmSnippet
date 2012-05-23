@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php if(${1:cond}):?&gt;
+	$2
+&lt;?php else:?&gt;
+	$3
+&lt;?php endif;?&gt;
+</string>
+	<key>name</key>
+	<string>php_tag_if_else</string>
+	<key>tabTrigger</key>
+	<string>?</string>
+	<key>uuid</key>
+	<string>7A7B33E7-4917-48A1-A0CA-C60AACA10354</string>
+</dict>
+</plist>
