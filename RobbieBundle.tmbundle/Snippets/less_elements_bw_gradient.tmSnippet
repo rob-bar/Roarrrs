@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.bw-gradient(${1:color}, ${2:start}, ${3:stop});</string>
+	<key>name</key>
+	<string>less_elements_bw_gradient</string>
+	<key>uuid</key>
+	<string>1317F1CE-88E3-4EF2-A563-A4C03CBA6247</string>
+</dict>
+</plist>

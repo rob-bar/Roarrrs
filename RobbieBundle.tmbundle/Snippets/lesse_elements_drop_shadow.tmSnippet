@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.drop-shadow(${1:x-axis}, ${2:y-axis}, ${3:blur}, ${4:alpha});</string>
+	<key>name</key>
+	<string>less_elements_drop_shadow</string>
+	<key>tabTrigger</key>
+	<string>lesse</string>
+	<key>uuid</key>
+	<string>F7A2FEA9-2445-4C78-9374-2C60DC1B52F3</string>
+</dict>
+</plist>

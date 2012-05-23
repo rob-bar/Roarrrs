@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media ${1:device} and ($(2:contitions)) {
+	.${3:lessclassorothercss};
+}
+</string>
+	<key>name</key>
+	<string>css_media_query</string>
+	<key>tabTrigger</key>
+	<string>css</string>
+	<key>uuid</key>
+	<string>D75B0029-6465-49A3-B5B8-BFE30CD0B42A</string>
+</dict>
+</plist>

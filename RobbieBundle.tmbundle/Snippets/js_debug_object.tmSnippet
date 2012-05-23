@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Debugger.obj(${1:obj});</string>
+	<key>name</key>
+	<string>js_debug_object</string>
+	<key>tabTrigger</key>
+	<string>jsd</string>
+	<key>uuid</key>
+	<string>896E1274-118D-4B8E-A5F1-3995A7315A01</string>
+</dict>
+</plist>

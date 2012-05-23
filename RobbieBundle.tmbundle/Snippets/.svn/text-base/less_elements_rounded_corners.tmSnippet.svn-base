@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.rounded(${1:radius});</string>
+	<key>name</key>
+	<string>less_elements_rounded_corners</string>
+	<key>tabTrigger</key>
+	<string>lesse</string>
+	<key>uuid</key>
+	<string>0B661A50-34F1-466C-99AC-AA46727BC936</string>
+</dict>
+</plist>

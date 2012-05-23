@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>clearInterval(${1:intervalId});</string>
+	<key>name</key>
+	<string>js_clear_interval</string>
+	<key>tabTrigger</key>
+	<string>js</string>
+	<key>uuid</key>
+	<string>367A46EA-51EF-4CF1-B07D-D1C45EFD2DBA</string>
+</dict>
+</plist>
