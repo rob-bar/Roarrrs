@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* =========== */
+/* = Imports = */
+/* =========== */
+@import "boilerplate.less";
+@import "elements.less";
+
+/* ========= */
+/* = Fonts = */
+/* ========= */
+$1
+/* ======================= */
+/* = Variables &amp; Mixings = */
+/* ======================= */
+
+/* ==================== */
+/* = ID specific rules = */
+/* ==================== */
+
+/* ===================== */
+/* = Less nested rules = */
+/* ===================== */
+
+/* ======================= */
+/* = LANG specific rules = */
+/* ======================= */
+
+/* ============ */
+/* = IE FIXES = */
+/* ============ */
+/*--IE7--*/
+.lt-ie8 {
+}
+
+/*--IE8--*/
+.lt-ie9 {
+}
+</string>
+	<key>name</key>
+	<string>less_template</string>
+	<key>uuid</key>
+	<string>10CA39EE-9D4A-4C5A-A4BE-E6EFD2DD6B6A</string>
+</dict>
+</plist>

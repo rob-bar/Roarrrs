@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;input type="submit" name="${1:nameid}" value="${2:value}" id="$1" /&gt;</string>
+	<key>name</key>
+	<string>html_tag_submit</string>
+	<key>tabTrigger</key>
+	<string>html</string>
+	<key>uuid</key>
+	<string>FA23D26A-C0E8-480B-AED6-832FCA9A6BEE</string>
+</dict>
+</plist>

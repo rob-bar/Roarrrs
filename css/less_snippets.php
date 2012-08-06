@@ -185,3 +185,48 @@ Snippet that sets a collumn on a container.
 //***		less_elements_columns END		***//
 //--------------------------------------------------------//
 
+
+//***		less_template		***//
+trigger:
+less
+output:
+/* =========== */
+/* = Imports = */
+/* =========== */
+@import "boilerplate.less";
+@import "elements.less";
+
+/* ========= */
+/* = Fonts = */
+/* ========= */
+
+/* ======================= */
+/* = Variables & Mixings = */
+/* ======================= */
+
+/* ==================== */
+/* = ID specific rules = */
+/* ==================== */
+
+/* ===================== */
+/* = Less nested rules = */
+/* ===================== */
+
+/* ======================= */
+/* = LANG specific rules = */
+/* ======================= */
+
+/* ============ */
+/* = IE FIXES = */
+/* ============ */
+/*--IE7--*/
+.lt-ie8 {
+}
+
+/*--IE8--*/
+.lt-ie9 {
+}
+description:
+Snippet that generates a default less template
+//***		less_template END		***//
+//--------------------------------------------------------//

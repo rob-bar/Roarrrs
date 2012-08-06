@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;label for="${1:nameid}"&gt;$2&lt;/label&gt;
+&lt;input type="text" title="${3:title}" name="$1" id="$1"&gt;</string>
+	<key>name</key>
+	<string>html_tag_labelinput</string>
+	<key>tabTrigger</key>
+	<string>html</string>
+	<key>uuid</key>
+	<string>E45C4CDF-7249-4CF7-8E23-DA4DCF38ADD1</string>
+</dict>
+</plist>

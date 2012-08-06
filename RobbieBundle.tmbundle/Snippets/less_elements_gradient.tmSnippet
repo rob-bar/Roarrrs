@@ -2,13 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>content</key>
-	<string>.bw-gradient(${1:color}, ${2:start}, ${3:stop});</string>
-	<key>name</key>
-	<string>less_elements_gradient</string>
-	<key>tabTrigger</key>
-	<string>lesse</string>
+	<key>changed</key>
+	<dict>
+		<key>content</key>
+		<string>.gradient(${1:color}, ${2:start}, ${3:stop});</string>
+		<key>name</key>
+		<string>less_elements_gradient</string>
+	</dict>
+	<key>isDelta</key>
+	<true/>
 	<key>uuid</key>
-	<string>3DEA1858-81D1-4CEB-BAE5-EBC8666624DC</string>
+	<string>94EA6373-99B9-46F9-9235-8256B0F9FD0E</string>
 </dict>
 </plist>
