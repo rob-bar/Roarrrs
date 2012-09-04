@@ -42,6 +42,8 @@ $1
 </string>
 	<key>name</key>
 	<string>less_template</string>
+	<key>tabTrigger</key>
+	<string>less</string>
 	<key>uuid</key>
 	<string>10CA39EE-9D4A-4C5A-A4BE-E6EFD2DD6B6A</string>
 </dict>
